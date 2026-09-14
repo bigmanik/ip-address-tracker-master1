@@ -1,16 +1,41 @@
-# React + Vite
+IP ADDRESS TRACKER MASTER : Freontend Mentor Task 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ![Project Screenshot](./src/assets/ip-address-tracker.png)
 
-Currently, two official plugins are available:
+## Welcome! 👋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## The challenge
 
-## React Compiler
+Your users should be able to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- View the optimal layout for each page depending on their device's screen size
+- See hover states for all interactive elements on the page
+- See their own IP address on the map on the initial page load
+- Search for any IP addresses or domains and see the key information and location
 
-## Expanding the ESLint configuration
+### Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+- Live Site URL: [Add live site URL here](https://ip-address-tracker-master1.vercel.app/)
+
+### Built with
+
+
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [TailwindCss] - For styles
+- [Vite] - Build Tool
+
+### What I learned
+I familiarized myself with the use of React ..
+
+### AI Collaboration
+
+- What tools did you use (e.g., ChatGPT, Claude, )
+- How did you use them (used ChatGPT for the planning and in mapping out the whole process while Claude was used to create the boiler plates for the project )
+
+## Author
+
+
+- Frontend Mentor - [@bigmanik](https://www.frontendmentor.io/profile/bigmanik)
+- Twitter - [@bigmanik_igb](https://www.twitter.com/bigmanik_igb)
